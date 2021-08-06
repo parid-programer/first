@@ -1,0 +1,46 @@
+#account3{
+    position: absolute;
+    display: inline;
+    width: 60px;
+    height: 60px;
+    top: 7px;
+    right: 7px;
+}
+nav{
+    background-color: #75CFB8;
+    margin-bottom: 100px;
+}
+#title{
+    position: relative;
+    display: inline;
+    font-size: 100px;
+    left: 200px;
+}
+body{
+    background-color: #BBDFC8;
+}
+img{
+    display: inline;
+}
+#inline{
+    position: absolute;
+    display: inline;
+    font-size: 50px;
+    color: #FFFFFF;
+    top: 175px;
+}
+#thus{
+    position: absolute;
+    display: inline;
+    font-size: 50px;
+    color: #FFFFFF;
+    top: 315px;
+}
+
+.lessons{
+    position: absolute;
+    display: inline;
+    font-size: 50px;
+    color: #FFFFFF;
+    bottom: 10px;
+}

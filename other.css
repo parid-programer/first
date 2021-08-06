@@ -1,0 +1,84 @@
+#account2{
+    position: absolute;
+    display: inline;
+    width: 60px;
+    height: 60px;
+    top: 7px;
+    right: 7px;
+}
+nav{
+    background-color: #75CFB8;
+    margin-bottom: 100px;
+}
+p{
+    position: relative;
+    display: inline;
+    font-size: 100px;
+    left: 200px;
+}
+#my2{
+    position: absolute;
+    color: white;
+    top: 60px;
+    right: 200px;
+    font-size: larger;
+}
+#home{
+    position: absolute;
+    color: white;
+    top: 60px;
+    right: 350px;
+    font-size: larger;
+}
+body{
+    background-color: #BBDFC8;
+}
+#reccomendations{
+    position: absolute;
+    font-size: 50px;
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    top: 115px;
+}
+#img1{
+    position: absolute;
+    width: 360px;
+    height: 202x;
+    top: 300px;
+}
+#title1{
+    position: absolute;
+    font-size: 20px;
+    font-weight: 500;
+    top: 505px;
+    left: 5px;
+}
+#img2{
+    position: absolute;
+    width: 360px;
+    height: 202x;
+    top: 300px;
+    left: 500px;
+}
+#title2{
+    position: absolute;
+    font-size: 20px;
+    font-weight: 500;
+    top: 505px;
+    left: 500px;
+}
+#img3{
+    position: absolute;
+    width: 360px;
+    height: 202x;
+    top: 300px;
+    left: 1000px;
+}
+#title3{
+    position: absolute;
+    font-size: 20px;
+    font-weight: 500;
+    top: 505px;
+    left: 1000px;
+}

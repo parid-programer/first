@@ -1,0 +1,75 @@
+#account5 {
+  position: absolute;
+  display: inline;
+  width: 60px;
+  height: 60px;
+  top: 7px;
+  right: 7px;
+}
+
+.buttons4{
+    background-color: #75cfb8;
+    width: 50px;
+    height: 31px;
+    margin-bottom: 60px;
+}
+
+.buttons3{
+    background-color: #75cfb8;
+    width: 75px;
+    height: 31px;
+    margin-bottom: 60px;
+}
+
+.buttons {
+  background-color: #75cfb8;
+  width: 50px;
+  height: 31px;
+  margin-bottom: 60px;
+}
+
+.buttons2 {
+    background-color: #75cfb8;
+    width: 75px;
+    height: 31px;
+}
+
+#title {
+  position: relative;
+  display: inline;
+  font-size: 100px;
+  left: 250px;
+}
+
+nav {
+  background-color: #75cfb8;
+  margin-bottom: 100px;
+}
+
+body {
+  background-color: #bbdfc8;
+}
+
+#input{
+  width:1000px;
+  position: relative;
+  top: 250px;
+  left: 500px;
+}
+
+#div{
+  position: absolute;
+  top: 188px
+}
+
+#submit{
+  position: absolute;
+  left: 508px;
+  top: 600px;
+}
+
+#h1{
+  position: absolute;
+  top: 275px;
+  left: 850px;
+}

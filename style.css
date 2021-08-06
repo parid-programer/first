@@ -1,0 +1,91 @@
+body{
+    background-color: #BBDFC8;
+}
+p{
+    position: relative;
+    display: inline;
+    font-size: 100px;
+    left: 200px;
+}
+
+#my{
+    position: absolute;
+    color: white;
+    top: 60px;
+    right: 130px;
+    font-size: larger;
+}
+#other{
+    position: absolute;
+    color: white;
+    top: 60px;
+    right: 300px;
+    font-size: larger;
+}
+nav{
+    background-color: #75CFB8;
+    margin-bottom: 100px;
+}
+
+#account{
+    position: absolute;
+    display: inline;
+    width: 60px;
+    height: 60px;
+    top: 7px;
+    right: 7px;
+}
+
+.card {
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 400px;
+    height: 300px;
+    left:200px;
+    top: 80px;
+  }
+  
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+  
+.container {
+    padding: 2px 16px;
+}
+
+
+#help{
+    position: absolute;
+    font-size: 50px;
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    top: 175px;
+}
+
+.card1 {
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 400px;
+    height: 300px;
+    left: 800px;
+    bottom: 220px;
+  }
+  
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+  
+.container {
+    padding: 2px 16px;
+}
+
+#trigcalc {
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    bottom: 10px;
+    left: 450px;
+}
